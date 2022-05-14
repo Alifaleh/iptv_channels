@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:-1,Bein Sports 1 HD (1080)
+http://stream.shashety.com:6001/sport/ch1/ch1_1080.m3u8
+#EXTINF:-1,Bein Sports 2 HD (1080)
+http://stream.shashety.com:6001/sport/ch2/ch2_1080.m3u8
+#EXTINF:-1,Bein Sports 3 HD (1080)
+http://stream.shashety.com:6001/sport/ch3/ch3_1080.m3u8
